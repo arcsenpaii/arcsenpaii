@@ -60,10 +60,9 @@
 
 ### GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arcsenpaii&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcsenpaii&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+You can check my repositories and contributions here:
+
+[github.com/arcsenpaii](https://github.com/arcsenpaii)
 
 ---
 
@@ -83,6 +82,6 @@ I am open to learning opportunities, collaboration, feedback, and beginner-frien
 You can reach me here:
 
 - GitHub: [@arcsenpaii](https://github.com/arcsenpaii)
-- Facebook: [YOUR_NAME](https://www.facebook.com/YOUR_FACEBOOK_USERNAME)
-- LinkedIn: [YOUR_NAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- Email: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+- Facebook: [YOUR_NAME](https://www.facebook.com/arcsenpai)
+- LinkedIn: [YOUR_NAME](https://www.linkedin.com/in/francis-aracosta-3382a530a/)
+- Email: [YOUR_EMAIL@example.com](mailto:arcsenpaii.com)
