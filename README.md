@@ -6,16 +6,16 @@
 
 <p align="center">
   <a href="https://github.com/arcsenpaii">
-    <img src="https://img.shields.io/badge/GitHub-arcsenpaii-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/francis-aracosta-3382a530a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
   </a>
   <a href="https://www.facebook.com/arcsenpai">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge" />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge" />
   </a>
-  <a href="francis.aracosta@unc.edu.ph">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  <a href="mailto:arcsenpaii@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
 </p>
 
@@ -75,3 +75,14 @@
 - Improving my problem-solving skills through real projects
 
 ---
+
+### Contact
+
+I am open to learning opportunities, collaboration, feedback, and beginner-friendly open source projects.
+
+You can reach me here:
+
+- GitHub: [@arcsenpaii](https://github.com/arcsenpaii)
+- Facebook: [YOUR_NAME](https://www.facebook.com/YOUR_FACEBOOK_USERNAME)
+- LinkedIn: [YOUR_NAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- Email: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
