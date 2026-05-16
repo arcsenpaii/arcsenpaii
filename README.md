@@ -60,7 +60,7 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [UNCNavGuide](https://github.com/arcsenpaii/UNCNavGuide)) | UNC NavGuide is a mobile app that helps users easily search, locate, and navigate places around the University of Nueva Caceres campus. | Kotlin
+| [UNCNavGuide](https://github.com/arcsenpaii/UNCNavGuide) | UNC NavGuide is a mobile app that helps users easily search, locate, and navigate places around the University of Nueva Caceres campus. | Kotlin
 | [Project Two](https://github.com/arcsenpaii/PROJECT_REPO) | A short sentence explaining the problem this project solves. | Python |
 | [Project Three](https://github.com/arcsenpaii/PROJECT_REPO) | A short sentence showing why this project is useful. | React, API |
 
