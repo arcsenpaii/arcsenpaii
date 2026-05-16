@@ -75,14 +75,3 @@
 - Improving my problem-solving skills through real projects
 
 ---
-
-### Contact
-
-I am open to learning opportunities, collaboration, feedback, and beginner-friendly open source projects.
-
-You can reach me here:
-
-- GitHub: [@arcsenpaii](https://github.com/arcsenpaii)
-- Facebook: [YOUR_NAME](https://www.facebook.com/arcsenpai)
-- LinkedIn: [YOUR_NAME](https://www.linkedin.com/in/francis-aracosta-3382a530a/)
-- Email: [YOUR_EMAIL@example.com](francis.aracosta@unc.edu.ph)
