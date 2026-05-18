@@ -23,7 +23,7 @@
 
 ### About Me
 
-- I am a **4th year BSIT student**
+- I am a 4th year BSIT student
 - I am currently learning: **HTML, CSS, JavaScript, Python, Git, and GitHub**
 - I enjoy building: **websites, tools, dashboards, and automation projects**
 - My goal: **turn ideas into useful software and keep improving every week**
