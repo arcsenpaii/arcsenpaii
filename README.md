@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Francis Aracaoaasaata</h1>
+<h1 align="center">Hi, I'm Francis Aracaoaaasaata</h1>
 
 <p align="center">
   <strong>Aspiring developer building practical, polished projects.</strong>
